@@ -1,0 +1,14 @@
+#note: /dist is included so the user don't has to npm instal/build to use it
+
+#products
+out
+log.txt
+
+#created by near dev-deploy
+neardev
+
+#packages
+node_modules
+
+#dist
+dist
